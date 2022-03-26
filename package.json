@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"cors": "^2.8.0",
-		"express": "file:../../frameworks/REACT/react-app/node_modules/express"
+		"express": "^4.17.1"
 	},
 	"repository": {
 		"type": "git",
